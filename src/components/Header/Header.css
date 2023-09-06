@@ -1,0 +1,11 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  width: 100lvw;
+  height: 60px;
+
+  background-color: hsla(0, 0%, 100%, 1);
+}
